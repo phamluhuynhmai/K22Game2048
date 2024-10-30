@@ -1,0 +1,12 @@
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.csproj.AssemblyReference.cache
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.Properties.Resources.resources
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.csproj.GenerateResource.cache
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\bin\Debug\game2048.exe.config
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\bin\Debug\game2048.exe
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\bin\Debug\game2048.pdb
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.Endgame.resources
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.Menu.resources
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.PlayGround.resources
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.exe
+D:\School\COMP101904_Lap-trinh-tren-Windows\2048-Game-master\game2048\obj\Debug\game2048.pdb

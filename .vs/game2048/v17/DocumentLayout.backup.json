@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|d:\\uni\\junior\\ltw\\final\\k22game2048\\game2048\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\endgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\endgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\playground.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03180A54-2D05-4F63-BC5C-3DF454D2BD5D}|game2048\\game2048.csproj|solutionrelative:game2048\\playground.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "game2048\\Form1.Designer.cs",
+              "ToolTip": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Form1.Designer.cs",
+              "RelativeToolTip": "game2048\\Form1.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:27:33.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Form1.cs",
+              "RelativeDocumentMoniker": "game2048\\Form1.cs",
+              "ToolTip": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Form1.cs",
+              "RelativeToolTip": "game2048\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:27:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayGround.Designer.cs",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\PlayGround.Designer.cs",
+              "RelativeDocumentMoniker": "game2048\\PlayGround.Designer.cs",
+              "ToolTip": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\PlayGround.Designer.cs",
+              "RelativeToolTip": "game2048\\PlayGround.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:02:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayGround.cs",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\PlayGround.cs",
+              "RelativeDocumentMoniker": "game2048\\PlayGround.cs",
+              "ToolTip": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\PlayGround.cs",
+              "RelativeToolTip": "game2048\\PlayGround.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAAUBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:36:40.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayGround.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\PlayGround.cs",
+              "RelativeDocumentMoniker": "game2048\\PlayGround.cs",
+              "ToolTip": "D:\\School\\COMP101904_Lap-trinh-tren-Windows\\2048-Game-master\\game2048\\PlayGround.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\School\\COMP101904_Lap-trinh-tren-Windows\\2048-Game-master\\game2048\\PlayGround.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:36:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Endgame.cs",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Endgame.cs",
+              "RelativeDocumentMoniker": "game2048\\Endgame.cs",
+              "ToolTip": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Endgame.cs",
+              "RelativeToolTip": "game2048\\Endgame.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:34:31.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Endgame.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Endgame.cs",
+              "RelativeDocumentMoniker": "game2048\\Endgame.cs",
+              "ToolTip": "D:\\School\\COMP101904_Lap-trinh-tren-Windows\\2048-Game-master\\game2048\\Endgame.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\School\\COMP101904_Lap-trinh-tren-Windows\\2048-Game-master\\game2048\\Endgame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:34:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Form1.cs",
+              "RelativeDocumentMoniker": "game2048\\Form1.cs",
+              "ToolTip": "D:\\School\\COMP101904_Lap-trinh-tren-Windows\\2048-Game-master\\game2048\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\School\\COMP101904_Lap-trinh-tren-Windows\\2048-Game-master\\game2048\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:34:13.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endgame.Designer.cs",
+              "DocumentMoniker": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Endgame.Designer.cs",
+              "RelativeDocumentMoniker": "game2048\\Endgame.Designer.cs",
+              "ToolTip": "D:\\uni\\junior\\LTW\\FINAL\\K22Game2048\\game2048\\Endgame.Designer.cs",
+              "RelativeToolTip": "game2048\\Endgame.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:40:38.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
